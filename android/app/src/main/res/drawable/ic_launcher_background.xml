@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep Matte Obsidian Titanium base -->
+    <path
+        android:fillColor="#0B0D11"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <!-- Subtle Hairline Titanium Ring -->
+    <path
+        android:strokeColor="#1F2937"
+        android:strokeWidth="1.2"
+        android:pathData="M54,12 A42,42 0 1,1 53.9,12" />
+
+    <!-- Subtle Emerald Ambient Aura -->
+    <path
+        android:strokeColor="#0F382B"
+        android:strokeWidth="2.5"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20" />
+
+    <!-- Central Jewel Glow Bed -->
+    <path
+        android:fillColor="#092B21"
+        android:pathData="M54,30 A24,24 0 1,1 53.9,30" />
+</vector>

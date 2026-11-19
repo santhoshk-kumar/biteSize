@@ -1,0 +1,30 @@
+name: zen_calorie
+description: BiteSize - A modern, Gen-Z styled Android & Web calorie and micronutrient tracker with smart notifications & 1-tap quick bites powered by LLMs (Gemini, OpenAI, Ollama).
+publish_to: 'none'
+version: 1.0.2+3
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^23.0.2
+  timezone: ^0.11.2
+  flutter_secure_storage: ^9.2.4
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  path: ^1.9.0
+  shared_preferences: ^2.3.5
+  sqflite: ^2.4.1
+  share_plus: ^12.0.2
+  path_provider: ^2.1.6
+  geolocator: ^13.0.2
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
