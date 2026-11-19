@@ -70,31 +70,26 @@ lib/
   - **Nutrition**: *"Greek yogurt with honey and almonds"*.
 - Compact quick-action icons (camera, mic, save) with keyboard-aware elevation avoiding overlap.
 
-### 3. Exercise & Compound Workout Tracker
-- **Compound Activity Detection**: Handles multiple activities in one prompt (*"5km run and 20 min jump rope"*), splitting them into separate entries.
-- **2024 Compendium MET Kinetics**: Calibrated burn calculation based on user weight, activity intensity, duration, and biomechanics.
-- **Headless GPS Route Tracker**: Outdoor route recording with speed smoothing, distance measurement, and elevation metrics.
-
-### 4. Habit Tracking & Routine Consistency
+### 3. Habit Tracking & Routine Consistency
 - **Top Date Scroll**: Interactive horizontal date picker matching the Today screen.
 - **Habit Categories**: Nutrition, Movement, Mindfulness, Sleep, and Productivity.
 - **Automated Logging**: Automatically marks habits complete when corresponding daily actions (water target, workouts, meal logs) are met.
 - **Analytics & Insights**: View completion rate, current streak, longest streak, and completion trends.
 
-### 5. Trends & Metabolic Analytics
+### 4. Trends & Metabolic Analytics
 - **Dynamic Views**: Toggle between **Weekly**, **Monthly**, and **Yearly** views.
 - **TDEE & Calorie Balance**: Visualizes total energy expenditure, active calories burned, and net energy balance.
 - **Weight Projections**: Tracks 14-day weigh-in trajectories against target milestones.
 
-### 6. Intermittent Fasting & Calorie Banking
+### 5. Intermittent Fasting & Calorie Banking
 - **Circadian Fasting Engine**: Support for 16:8, 18:6, 20:4, and custom fasting protocols.
 - **Metabolic Stage Progress**: Displays transitions between Anabolic, Catabolic, Fat Burning, and Autophagy stages.
 - **Calorie Banking**: Shift calorie budgets dynamically across weekdays and weekends for flexible social eating.
 
-### 7. Gamified Achievements
+### 6. Gamified Achievements
 - 20+ unlockable achievement milestones spanning Streaks, Nutrition, Movement, and Mastery prestige tiers.
 
-### 8. Privacy, Data Sovereignty & BYOK
+### 7. Privacy, Data Sovereignty & BYOK
 - **Local-First Database**: All meals, exercises, weights, and habits are stored locally in SQLite.
 - **Hardware-Backed Encryption**: API keys are encrypted on-device via Android Keystore.
 - **Export & Import**: Full backup/restore in JSON format and CSV meal log export.
